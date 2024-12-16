@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  scrollbar-width: none !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  height: 100vh;
+  overflow: hidden;
+  background-color: white;
+}
+
+#root {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+span {
+  color: black;
+}
